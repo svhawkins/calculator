@@ -59,7 +59,7 @@ fib: fibonacci number
 
 <<: left shift (requires 3 operands: a << b c is the same as multiplying a with b, where b is raised to the cth power. if only 2 operands are given, it defaults to a base, b, of 2)
 
-//>//>: right shift: (requires 3 operands: a >> b c is the same as dividing a by b, where b is raised to the cth power. if only 2 operands are given, it defaults to a base, b, of 2)
+\>\>: right shift: (requires 3 operands: a >> b c is the same as dividing a by b, where b is raised to the cth power. if only 2 operands are given, it defaults to a base, b, of 2)
 
 
 RELATIONAL OPERATORS:
@@ -74,9 +74,9 @@ RELATIONAL OPERATORS:
 
 <=: less than or equal to
 
-//>: greater than
+\>: greater than
 
->=: greater than or equal to
+\>=: greater than or equal to
 
 
 LOGICAL OPERATORS:
